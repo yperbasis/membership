@@ -86,7 +86,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Giulio Rebuffo](https://github.com/Giulio2002/) |1| |
 | [lupin012](https://github.com/lupin012/) |0.5| [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Alupin012), [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Alupin012), [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests/pulls?q=author%3Alupin012) |
 | [Kewei Chen](https://github.com/domiwei/) |1| [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Adomiwei) |
-| [Mark Holt](https://github.com/mh0lt/) |0.5| |
+| [Mark Holt](https://github.com/mh0lt/) |1| [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Amh0lt) |
 | [Ilya Mikheev](https://github.com/JkLondon/) |1| |
 | [Michelangelo Riccobene](https://github.com/mriccobene/) |1| |
 | [Milen Filatov](https://github.com/taratorio/) |1| [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ataratorio) |
